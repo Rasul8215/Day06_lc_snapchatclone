@@ -1,1 +1,1 @@
-# Day06_lc_snapchatclone
+# Day06_Boilerplate
